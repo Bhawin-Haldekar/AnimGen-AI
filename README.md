@@ -1,4 +1,4 @@
-🎬 AnimGen AI
+🎬 AnimGen AI<br>
 AI-Powered Educational Animation Generator
 AnimGen AI is an intelligent educational platform that automatically converts plain text explanations into animated explainer videos. It is designed to help students, teachers, and content creators understand and teach complex concepts visually—without requiring animation skills or expensive software.
 
